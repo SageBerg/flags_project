@@ -1,0 +1,455 @@
+Tokyo Japan 37239000
+Jakarta Indonesia 26746000
+Seoul South_Korea 22868000
+Delhi India 22826000
+Shanghai China 21766000
+Manila Philippines 21241000
+Karachi Pakistan 20877000
+New_York_City United_States 20673000
+Greater_S%C3%A3o_Paulo Brazil 20568000
+Mexico_City Mexico 20032000
+Beijing China 18241000
+Guangzhou China 17681000
+Mumbai India 17307000
+Osaka Japan 17175000
+Moscow Russia 15788000
+Greater_Cairo Greater_Cairo Egypt 15071000
+Los_Angeles United_States 15067000
+Kolkata Kolkata India 14630000
+Bangkok Bangkok Thailand 14544000
+Dhaka Bangladesh 14399000
+Greater_Buenos_Aires Argentina 13776000
+Tehran Iran 13309000
+Istanbul Istanbul Turkey 12919000
+Shenzhen China 12506000
+Lagos Nigeria 12090000
+Rio_de_Janeiro Rio_de_Janeiro Brazil 11616000
+Paris Paris France 10869000
+Nagoya Japan 10183000
+London United_Kingdom 9576000
+Lima Lima Peru 9400000
+Kinshasa Democratic_Republic_of_the_Congo 9387000
+Tianjin China 9277000
+Chennai Chennai India 9182000
+Chicago United_States 9104000
+Bengaluru Bengaluru India 9044000
+Bogot%C3%A1 Bogotá Colombia 9009000
+Ho_Chi_Minh_City Vietnam 8764000
+Dongguan China 8591000
+Chengdu Chengdu China 8386000
+Taipei Taiwan 8357000
+Hyderabad,_Andhra_Pradesh Hyderabad India 8206000
+Lahore Lahore Pakistan 7994000
+Johannesburg South_Africa 7426000
+Wuhan Wuhan China 7411000
+Essen Germany 7312000
+Hong_Kong Hong_Kong 7162000
+Ahmedabad Ahmedabad India 6732000
+Chongqing China 6632000
+Kuala_Lumpur Malaysia 6608000
+Hangzhou China 6559000
+Baghdad Baghdad Iraq 6366000
+Toronto Canada 6184000
+Santiago,_Chile Chile 6171000
+Madrid Madrid Spain 6087000
+Dallas United_States 6022000
+San_Francisco United_States 6020000
+Quanzhou China 5913000
+Miami United_States 5504000
+Nanjing China 5770000
+Shenyang China 5631000
+Belo_Horizonte Belo_Horizonte Brazil 5582000
+Philadelphia United_States 5508000
+Houston United_States 5485000
+Luanda Luanda Angola 5425000
+Xi%27an China 5332000
+Singapore Singapore 5287000
+Pune Pune India 5265000
+Milan Italy 5248000
+Riyadh Riyadh Saudi_Arabia 5133000
+Khartoum Khartoum Sudan 4919000
+Saint_Petersburg Russia 4899000
+Washington,_D.C. United_States 4825000
+Surat Surat India 4791000
+Bandung Bandung Indonesia 4764000
+Atlanta United_States 4707000
+Surabaya Surabaya Indonesia 4703000
+Yangon Burma 4620000
+Barcelona Barcelona Spain 4604000
+Alexandria Alexandria Egypt 4603000
+Abidjan Abidjan Ivory_Coast 4603000
+Guadalajara,_Jalisco Guadalajara Mexico 4567000
+Harbin China 4543000
+Boston United_States 4514000
+Nairobi Nairobi Kenya 4457000
+Qingdao Qingdao China 4444000
+Suzhou China 4402000
+Ankara Ankara Turkey 4221000
+Monterrey Monterrey Mexico 4220000
+Zhengzhou Zhengzhou China 4184000
+Salvador,_Bahia Brazil 4075000
+Phoenix,_Arizona United_States 4044000
+Porto_Alegre Porto_Alegre Brazil 4002000
+Sydney Australia 3956000
+Berlin Berlin Germany 3956000
+Accra Accra Ghana 3933000
+Kuwait_City Kuwait_City Kuwait 3851000
+Rome Italy 3798000
+Recife Recife Brazil 3793000
+Dalian Dalian China 3793000
+Melbourne Australia 3761000
+Detroit United_States 3734000
+Medell%C3%ADn Medellín Colombia 3732000
+Naples Naples Italy 3726000
+Dar_es_Salaam Dar_es_Salaam Tanzania 3723000
+Fortaleza Fortaleza Brazil 3636000
+Kano Kano Nigeria 3636000
+Fuzhou Fuzhou China 3625000
+Cape_Town Cape_Town South_Africa 3560000
+Taiyuan China 3526000
+Hefei Hefei China 3523000
+Athens Athens Greece 3510000
+Jinan Jinan China 3479000
+Kabul Kabul Afghanistan 3476000
+Durban South_Africa 3457000
+Montreal Canada 3450000
+Wuxi China 3445000
+Tel_Aviv Tel_Aviv Israel 3421000
+Kunming Kunming China 3413000
+Jeddah Jeddah Saudi_Arabia 3413000
+Xiamen China 3388000
+Busan South_Korea 3384000
+Dubai United_Arab_Emirates 3319000
+Ningbo China 3312000
+Caracas Caracas Venezuela 3279000
+Dakar Dakar Senegal 3270000
+Aleppo Aleppo Syria 3264000
+Curitiba Curitiba Brazil 3233000
+Changsha Changsha China 3228000
+Addis_Ababa Addis_Ababa Ethiopia 3226000
+Changchun Changchun China 3212000
+Jaipur Jaipur India 3208000
+Faisalabad Faisalabad Pakistan 3197000
+Ibadan Ibadan Nigeria 3180000
+Seattle United_States 3180000
+Rawalpindi Islamabad Pakistan 3135000
+Casablanca Casablanca Morocco 3120000
+Mashhad Mashhad Iran 3097000
+Chittagong Chittagong Bangladesh 3073000
+San_Diego United_States 3065000
+Pyongyang Pyongyang North_Korea 3048000
+Shijiazhuang Shijiazhuang China 3044000
+Kanpur Kanpur India 3044000
+Kumasi Kumasi Ghana 3031000
+Lucknow Lucknow India 3026000
+Algiers Algiers Algeria 2994000
+Taichung Taichung Taiwan 2973000
+Changzhou China 2971000
+%C4%B0zmir İzmir Turkey 2946000
+%C3%9Cr%C3%BCmqi Ürümqi China 2939000
+Hyderabad,_Sindh Hyderabad Pakistan 2850000
+Wenzhou China 2817000
+Kiev Kiev Ukraine 2816000
+Kaohsiung_City Kaohsiung Taiwan 2796000
+Kalyan India 2763000
+Guiyang Guiyang China 2749000
+Damascus Damascus Syria 2749000
+Minneapolis United_States 2731000
+Lisbon Lisbon Portugal 2697000
+Maputo Mozambique 2691000
+Sapporo Sapporo Japan 2654000
+Amman Jordan 2630000
+Douala Douala Cameroon 2612000
+Sana%27a Sana'a Yemen 2608000
+Nagpur Nagpur India 2605000
+Pretoria South_Africa 2602000
+Yaound%C3%A9 Yaoundé Cameroon 2587000
+Fukuoka,_Fukuoka Japan 2556000
+Campinas Campinas Brazil 2541000
+Hanoi Hanoi Vietnam 2533000
+Tampa,_Florida United_States 2516000
+Lanzhou Lanzhou China 2514000
+Katowice Poland 2507000
+Denver United_States 2505000
+Santiago_de_Cali Cali Colombia 2486000
+Nanchang Nanchang China 2469000
+Cebu_City Philippines 2463000
+Tunis Tunis Tunisia 2456000
+Daegu Daegu South_Korea 2400000
+Bras%C3%ADlia Brazil 2394000
+Guayaquil Guayaquil Ecuador 2379000
+Puebla,_Puebla Puebla Mexico 2374000
+Shantou China 2364000
+Abuja Abuja Nigeria 2360000
+Maracaibo Maracaibo Venezuela 2343000
+Port-au-Prince Port-au-Prince Haiti 2332000
+Tashkent Tashkent Uzbekistan 2316000
+Zhangjiagang China 2306000
+Frankfurt Frankfurt Germany 2303000
+Isfahan Isfahan Iran 2299000
+Birmingham United_Kingdom 2297000
+Nanning Nanning China 2277000
+Zhongshan China 2275000
+Indore India 2264000
+Santo_Domingo Santo_Domingo Dominican_Republic 2257000
+Baltimore United_States 2251000
+Medan Medan Indonesia 2250000
+Coimbatore Coimbatore India 2246000
+Manchester United_Kingdom 2246000
+Kochi India 2211000
+Asunci%C3%B3n Asunción Paraguay 2203000
+Chaoyang_District,_Shantou China 2200000
+Ouagadougou Ouagadougou Burkina_Faso 2193000
+Bamako Bamako Mali 2193000
+Panama_City Panama_City Panama 2182000
+Colombo Colombo Sri_Lanka 2177000
+Vancouver Canada 2166000
+San_Juan,_Puerto_Rico San_Juan Puerto_Rico 2163000
+St._Louis,_Missouri United_States 2157000
+Patna Patna India 2139000
+Goi%C3%A2nia Goiânia Brazil 2131000
+Linyi Linyi China 2123000
+Kozhikode India 2120000
+Rotterdam Netherlands 2119000
+Bel%C3%A9m Belém Brazil 2116000
+Baku Azerbaijan 2112000
+Havana Havana Cuba 2112000
+Shaoxing China 2094000
+Antananarivo Antananarivo Madagascar 2075000
+Cologne Germany 2069000
+Baotou Baotou China 2065000
+Tangshan China 2059000
+Beirut Beirut Lebanon 2035000
+Kitaky%C5%ABsh%C5%AB Japan 2005000
+Port_Harcourt Nigeria 2002000
+Hohhot Hohhot China 1988000
+Bhopal Bhopal India 1967000
+Las_Vegas Las_Vegas United_States 1955000
+Brussels Brussels Belgium 1944000
+Barranquilla Barranquilla Colombia 1941000
+Bucharest Bucharest Romania 1931000
+Orlando Orlando United_States 1931000
+Manaus Manaus Brazil 1923000
+Portland,_Oregon Portland United_States 1923000
+Brisbane Brisbane Australia 1912000
+Vadodara Vadodara India 1897000
+Valencia,_Carabobo Valencia Venezuela 1896000
+Rabat Rabat Morocco 1881000
+Multan Multan Pakistan 1871000
+Lom%C3%A9 Lomé Togo 1862000
+Gujranwala Gujranwala Pakistan 1861000
+Minsk Minsk Belarus 1860000
+San_Antonio San_Antonio United_States 1860000
+Huai%27an Huai'an China 1856000
+Thrissur Thrissur India 1854000
+Lusaka Lusaka Zambia 1849000
+Semarang Semarang Indonesia 1846000
+Conakry Conakry Guinea 1838000
+Tijuana Tijuana Mexico 1827000
+Agra Agra India 1824000
+Kampala Kampala Uganda 1820000
+Visakhapatnam Visakhapatnam India 1806000
+Hamburg Hamburg Germany 1796000
+Sacramento Sacramento United_States 1776000
+La_Paz La_Paz Bolivia 1770000
+Cleveland Cleveland United_States 1765000
+Thiruvananthapuram Thiruvananthapuram India 1762000
+Luoyang Luoyang China 1761000
+Santa_Cruz_de_la_Sierra Santa_Cruz_de_la_Sierra Bolivia 1749000
+Toluca Toluca Mexico 1747000
+Pittsburgh Pittsburgh United_States 1734000
+Vienna Vienna Austria 1732000
+Bursa Bursa Turkey 1729000
+Handan Handan China 1728000
+Budapest Budapest Hungary 1726000
+Santos,_S%C3%A3o_Paulo Santos Brazil 1716000
+Warsaw Warsaw Poland 1715000
+Shiraz Shiraz Iran 1702000
+Malappuram Malappuram India 1698000
+Lubumbashi Lubumbashi Democratic_Republic_of_the_Congo 1696000
+Yinchuan Yinchuan China 1694000
+Phnom_Penh Phnom_Penh Cambodia 1693000
+Brazzaville Brazzaville Republic_of_the_Congo 1685000
+Ludhiana Ludhiana India 1685000
+Quito Quito Ecuador 1684000
+Vit%C3%B3ria,_Esp%C3%ADrito_Santo Vitória Brazil 1666000
+Le%C3%B3n,_Guanajuato León Mexico 1665000
+Montevideo Montevideo Uruguay 1661000
+Perth Perth Australia 1657000
+Tabriz Tabriz Iran 1647000
+San_Salvador San_Salvador El_Salvador 1646000
+Kannur Kannur India 1643000
+Jilin_City Jilin China 1641000
+Johor_Bahru Johor_Bahru Malaysia 1640000
+Mogadishu Mogadishu Somalia 1637000
+Nashik Nashik India 1635000
+Cincinnati Cincinnati United_States 1625000
+Harare Harare Zimbabwe 1619000
+Datong Datong China 1611000
+Kaduna Kaduna Nigeria 1610000
+Peshawar Peshawar Pakistan 1606000
+Haikou Haikou China 1600000
+Makassar Makassar Indonesia 1600000
+Zibo Zibo China 1598000
+Kunshan Kunshan China 1596000
+Yangzhou Yangzhou China 1593000
+Marseille Marseille France 1587000
+Anshan Anshan China 1571000
+Mosul Mosul Iraq 1567000
+Mecca Mecca Saudi_Arabia 1567000
+C%C3%B3rdoba,_Argentina Córdoba Argentina 1564000
+Vijayawada Vijayawada India 1558000
+Lyon Lyon France 1547000
+Kansas_City,_Missouri Kansas_City United_States 1547000
+San_Jos%C3%A9,_Costa_Rica San_José Costa_Rica 1543000
+Leeds Bradford United_Kingdom 1543000
+Palembang Palembang Indonesia 1542000
+Indianapolis Indianapolis United_States 1532000
+Madurai Madurai India 1525000
+Daejeon Daejeon South_Korea 1513000
+Turin Turin Italy 1499000
+Varanasi Varanasi India 1498000
+Davao_City Davao_City Philippines 1493000
+Meerut Meerut India 1489000
+Austin Austin United_States 1488000
+Gwangju Gwangju South_Korea 1481000
+Adana Adana Turkey 1477000
+Novosibirsk Novosibirsk Russia 1470000
+Virginia_Beach Norfolk United_States 1466000
+Liuzhou Liuzhou China 1458000
+Rajkot Rajkot India 1455000
+Kharkiv Kharkiv Ukraine 1449000
+Benin_City Benin_City Nigeria 1439000
+Stockholm Stockholm Sweden 1435000
+Mbuji-Mayi Mbuji-Mayi Democratic_Republic_of_the_Congo 1430000
+Weifang Weifang China 1422000
+Almaty Almaty Kazakhstan 1415000
+Fushun Fushun China 1412000
+Columbus,_Ohio Columbus United_States 1409000
+Porto Porto Portugal 1398000
+Jamshedpur Jamshedpur India 1397000
+Milwaukee Milwaukee United_States 1388000
+Huizhou Huizhou China 1387000
+Yantai Yantai China 1377000
+Ciudad_Ju%C3%A1rez Ciudad_Juárez Mexico 1369000
+Munich Munich Germany 1357000
+Natal,_Rio_Grande_do_Norte Natal Brazil 1342000
+Yekaterinburg Yekaterinburg Russia 1340000
+Sendai Sendai Japan 1334000
+Srinagar Srinagar India 1331000
+Jabalpur Jabalpur India 1325000
+Hiroshima Hiroshima Japan 1325000
+S%C3%A3o_Lu%C3%ADs São_Luís Brazil 1323000
+Baoding Baoding China 1322000
+Auckland Auckland New_Zealand 1310000
+Charlotte Charlotte United_States 1310000
+Yerevan Yerevan Armenia 1300000
+Asansol Asansol India 1300000
+Rosario Rosario Argentina 1290000
+Zhuhai Zhuhai China 1274000
+Stuttgart Stuttgart Germany 1274000
+Allahabad Allahabad India 1271000
+Barquisimeto Barquisimeto Venezuela 1265000
+Prague Prague Czech_Republic 1264000
+Torre%C3%B3n Torreón Mexico 1260000
+Tainan Tainan Taiwan 1259000
+Yogyakarta Yogyakarta Indonesia 1250000
+Dhanbad Dhanbad India 1249000
+Nizhny_Novgorod Nizhny_Novgorod Russia 1247000
+Xuzhou Xuzhou China 1246000
+Aurangabad,_Maharashtra Aurangabad India 1244000
+Ahvaz Ahvaz Iran 1241000
+Amritsar Amritsar India 1239000
+Guatemala_City Guatemala_City Guatemala 1228000
+Macei%C3%B3 Maceió Brazil 1225000
+Copenhagen Copenhagen Denmark 1218000
+Wuhu Wuhu China 1217000
+Qiqihar Qiqihar China 1216000
+Gaziantep Gaziantep Turkey 1209000
+Glasgow Glasgow United_Kingdom 1203000
+Cixi_City Cixi_City China 1200000
+Xining Xining China 1200000
+Zhangzhou Zhangzhou China 1200000
+Niamey Niamey Niger 1199000
+Jo%C3%A3o_Pessoa João_Pessoa Brazil 1196000
+Anyang Anyang China 1195000
+Jodhpur Jodhpur India 1190000
+Providence,_Rhode_Island Providence United_States 1187000
+Sofia Sofia Bulgaria 1182000
+Khulna Khulna Bangladesh 1179000
+Ranchi Ranchi India 1179000
+Raipur Raipur India 1176000
+Huambo Huambo Angola 1175000
+Medina Medina Saudi_Arabia 1172000
+Durg Bhilai India 1164000
+Samara,_Russia Samara Russia 1162000
+Tripoli Tripoli Libya 1160000
+Helsinki Helsinki Finland 1159000
+Gwalior Gwalior India 1152000
+Putian Putian China 1150000
+Penang Penang Malaysia 1150000
+Omsk Omsk Russia 1148000
+Vasai-Virar Vasai-Virar India 1147000
+Quer%C3%A9taro,_Quer%C3%A9taro Querétaro Mexico 1144000
+Dublin Dublin Ireland 1143000
+Zhangjiakou Zhangjiakou China 1142000
+Kazan Kazan Russia 1141000
+Changshu Changshu China 1139000
+Bucaramanga Bucaramanga Colombia 1134000
+Maracay Maracay Venezuela 1133000
+Tegucigalpa Tegucigalpa Honduras 1130000
+Chelyabinsk Chelyabinsk Russia 1130000
+Tbilisi Tbilisi Georgia 1122000
+Adelaide Adelaide Australia 1120000
+Calgary Calgary Canada 1119000
+Fes Fes Morocco 1117000
+Huainan Huainan China 1112000
+Kollam Kollam India 1110000
+Mandalay Mandalay Burma 1108000
+Kathmandu Kathmandu Nepal 1106000
+Naypyidaw Naypyidaw Burma 1105000
+Belgrade Belgrade Serbia 1101000
+Jacksonville Jacksonville United_States 1101000
+Xiangyang Xiangyang China 1100000
+Joinville Joinville Brazil 1092000
+Ulan_Bator Ulan_Bator Mongolia 1091000
+Rostov-on-Don Rostov-on-Don Russia 1089000
+Ulsan Ulsan South_Korea 1087000
+Chifeng Chifeng China 1085000
+Jiamusi Jiamusi China 1080000
+Memphis Memphis United_States 1079000
+Erbil Erbil Iraq 1078000
+Chandigarh Chandigarh India 1074000
+Haifa Haifa Israel 1072000
+Konya Konya Turkey 1069000
+Tiruchirappalli Tiruchirappalli India 1068000
+Salt_Lake_City Salt_Lake_City United_States 1068000
+Florian%C3%B3polis Florianópolis Brazil 1061000
+Dongying Dongying China 1060000
+Mombasa Mombasa Kenya 1055000
+M%C3%A9rida,_Yucat%C3%A1n Mérida Mexico 1055000
+Kigali Kigali Rwanda 1055000
+Lille Lille France 1050000
+Amsterdam Amsterdam Netherlands 1050000
+Xinxiang Xinxiang China 1048000
+Kota,_Rajasthan Kota India 1047000
+Jiaxing Jiaxing China 1044000
+Zaria Zaria Nigeria 1044000
+N%27Djamena N'Djamena Chad 1040000
+San_Luis_Potos%C3%AD,_San_Luis_Potos%C3%AD San_Luis_Potosí Mexico 1040000
+Huaibei Huaibei China 1036000
+Nantong Nantong China 1036000
+Qom Qom Iran 1034000
+Mysore Mysore India 1033000
+Bareilly Bareilly India 1025000
+Nuremberg Nuremberg Germany 1020000
+Ufa Ufa Russia 1015000
+Guwahati Guwahati India 1014000
+Nashville Nashville United_States 1014000
+Odessa Odessa Ukraine 1010000
+Cartagena,_Colombia Cartagena Colombia 1001000
+Hamamatsu Hamamatsu Japan 1000000
+Monrovia Monrovia Liberia 1000000
+Port_Elizabeth Port_Elizabeth South_Africa 1000000
+Changwon Changwon South_Korea 1000000
+Dnipropetrovsk Dnipropetrovsk Ukraine 1000000
